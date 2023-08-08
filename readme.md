@@ -1,6 +1,6 @@
 # Django Project README
 
-BlueCollarConnect is a Django project that aims to provide a web-based platform that addresses the employment needs of skilled workers by providing job opportunities in close proximity to their residences. Leveraging modern web technologies, the platform aims to connect service providers and job seekers in a seamless manner.
+BlueCollarConnect is a Django project that aims to provide a web-based platform that addresses the employment needs of skilled workers by providing job opportunities in close proximity to their residences. Leveraging modern web technologies, the platform aims to connect service providers and job seekers in a seamless manner. [Link: https://github.com/rajsahilcoder/BlueCollarConnect]
 
 ## Table of Contents
 
