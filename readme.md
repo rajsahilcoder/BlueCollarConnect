@@ -50,7 +50,7 @@ The project focuses on the development of a web-based platform that addresses th
 
 The following code snippets represent views from the Django project that implement the platform's functionality.
 
-````python
+```python
 # views.py
 
 # Import necessary libraries and modules
@@ -83,6 +83,7 @@ def content_based(request):
 ```bash
    git clone https://github.com/your-username/your-project.git
 ```
+
 ```bash
    cd your-project
 ```
@@ -120,6 +121,7 @@ Before running the project, ensure that you have properly configured the databas
 ```bash
 python manage.py makemigrations
 ```
+
 ```bash
 python manage.py migrate
 ```
@@ -153,4 +155,7 @@ Open Your Web Browser: Launch your preferred web browser and navigate to http://
 ## Support and Feedback
 
 If you encounter any issues or have suggestions for improvement, please feel free to open an issue on our GitHub repository. Your feedback is valuable to us and will help make this project better.
-````
+
+```
+
+```
