@@ -155,7 +155,3 @@ Open Your Web Browser: Launch your preferred web browser and navigate to http://
 ## Support and Feedback
 
 If you encounter any issues or have suggestions for improvement, please feel free to open an issue on our GitHub repository. Your feedback is valuable to us and will help make this project better.
-
-```
-
-```
