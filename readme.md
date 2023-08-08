@@ -10,7 +10,6 @@ BlueCollarConnect is a Django project that aims to provide a web-based platform 
 - [Outcomes](#outcomes)
 - [Project Implementation (Code Snippets)](#project-implementation-code-snippets)
 - [Getting Started](#getting-started)
-  - [Installation](#installation)
 - [Install Project Dependencies](#install-project-dependencies)
 - [Running the Project](#running-the-project)
 - [Usage](#usage)
@@ -75,8 +74,6 @@ def content_based(request):
 ```
 
 ## Getting Started
-
-### Installation
 
 1. Clone this repository to your local machine:
 
