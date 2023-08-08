@@ -72,7 +72,7 @@ def content_based(request):
         results = main(address, specialty)
         return render(request, "content_based.html", {"results": results})
     return render(request, "content_based.html")
-
+```
 
 ## Getting Started
 
@@ -80,10 +80,12 @@ def content_based(request):
 
 1. Clone this repository to your local machine:
 
-   ```bash
+```bash
    git clone https://github.com/your-username/your-project.git
+```
+```bash
    cd your-project
-````
+```
 
 2. Create a virtual environment named `venv` using the following command:
 
@@ -115,8 +117,10 @@ Before running the project, ensure that you have properly configured the databas
 
 1. Apply Migrations: Create the necessary database tables by executing the following command:
 
-````bash
+```bash
 python manage.py makemigrations
+```
+```bash
 python manage.py migrate
 ```
 
@@ -124,7 +128,7 @@ python manage.py migrate
 
 ```bash
 python manage.py createsuperuser
-````
+```
 
 3. Start the Development Server: Launch the development server to run the project locally:
 
@@ -149,3 +153,4 @@ Open Your Web Browser: Launch your preferred web browser and navigate to http://
 ## Support and Feedback
 
 If you encounter any issues or have suggestions for improvement, please feel free to open an issue on our GitHub repository. Your feedback is valuable to us and will help make this project better.
+````
